@@ -1,5 +1,1 @@
-# hexlet-basics
-# for test&tranning
-
-this is my first Repo
-
+for 2nd commit changes
